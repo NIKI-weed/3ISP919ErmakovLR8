@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TopText">Экран пользователя</string>
+    <string name="ChangeBtn">Сменить фотографию</string>
+    <string name="NameText">Иван</string>
+    <string name="SurnameText">Иванов</string>
+    <string name="EmailText">pochta@mail.ru</string>
+    <string name="PhoneText">8(800)-555-35-35</string>
+    <string name="ExitBtn">Выход</string>
+    <color name="llChangeColor">#ACD1F6</color>
+    <color name="llExitColor">#E6899C</color>
+</resources>
